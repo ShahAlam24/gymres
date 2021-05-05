@@ -61,17 +61,11 @@ Menu  css start
     transform: skewX(-35deg);
     background: #313131;
 }
-.main-menu .navbar-brand:hover{
-    transform: skewX(35deg);
-    transition: all linear .5s;
-}
 
 .main-menu .navbar-brand img {
     transform: skewX(35deg);
 }
-.main-menu .navbar-brand:hover img {
-    transform: skewX(-35deg);
-}
+
 
 .main-menu ul li a {
     color: #f1f1f1;
